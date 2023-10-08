@@ -1,0 +1,275 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.img1 img{
+ width: 400px;
+}
+.web{
+    margin-top: 100px;
+    margin-left: 70px;
+    
+}
+.web h1{
+       font-size: 100px;
+}
+
+.tasklist{
+    margin-top: 100px;
+    margin-left: 70px;
+}
+.tasklist h1{
+    color: rgb(18, 165, 209);
+    font-size: 80px;
+    
+}
+.contant{
+   background-color: rgb(93, 205, 239);
+   color: white;
+   width: 650px;
+   height: 20%;
+border-radius: 50px;
+text-align: center;  
+padding-top: 20px;  
+margin-left: 10%;
+display: flex;
+
+    
+   
+    
+}
+.contant2{
+    background-color: rgb(93, 205, 239);
+    color: white;
+    width: 650px;
+    height: 20%;
+ border-radius: 50px;
+ text-align: center;  
+ padding-top: 20px;  
+ margin-left: 0px;
+     margin-top: 20px;
+    display: flex;
+     
+ }
+ .contant3{
+    background-color: rgb(93, 205, 239);
+    color: white;
+    width: 650px;
+    height: 20%;
+ border-radius: 50px;
+ text-align: center;  
+ padding-top: 20px;  
+ margin-left: 10%;
+     margin-top: 20px;
+     display: flex;
+    
+     
+ }
+
+ .box1{
+    margin-top: 100px;
+   
+    width: 850px;
+
+   
+    height: 900px;
+    display: inline-block;
+    position: relative;
+   
+    padding-top: 100px;
+  
+ }
+ .box2{
+    padding-top: 0%;
+   margin-top: 0px;
+    width: 650px;
+   
+    height: 500px;
+    display: inline-block;
+   
+   
+    
+   
+    
+   
+   
+ }
+ .box2 h1{
+    font-size: 60px;
+    padding-left: 170px;
+
+ }
+ .box2 h2{
+    font-size: 60px;
+    padding-left: 200px;
+
+ }
+ .box2 h3{
+    font-size: 60px;
+    padding-left: 100px;
+
+ }
+.box2 p{
+    padding-top: 100px;
+    padding-left: 50px;
+    font-size: 30px;
+    color: rgb(20, 146, 187);
+    font-weight: bold
+}
+
+.container{
+    margin-top: 30px;
+    display: flex;
+
+}
+.img1{
+    margin-top: 20px;
+    margin-left: 0px;
+}
+    
+.contant h1{
+    font-size: 50px;
+}
+.contant2 h1{
+    font-size: 50px;
+}
+.contant3 h1{
+    font-size: 50px;
+}
+
+.icon{
+    width: 25%;
+    border-radius: 60%;
+    
+    background-color: rgb(255, 255, 255);
+    
+        margin-top: 0%;
+        margin-left: 20px;
+        margin-bottom: 10px;
+       
+
+}
+.icon h1{
+    color: black;
+    font-style: 600px;
+    padding-top: 40px;
+    padding-left: 0px;
+    
+}
+
+.text{
+    padding-left: 50px;
+}
+
+
+.page3{
+    width: 100%;
+    height: 750px;
+    display: flex;
+   
+}
+
+.page3left{
+    width: 40%;
+
+}
+.page3right{
+   width: 60%;
+   background-image:url(image/Screenshot\ 2023-10-06\ 192141.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.page3text{
+    margin-top: 50px;
+}
+.page3text h1{
+    text-align: center;
+    font-size: 60px;
+
+}
+.page3text p {
+    padding: 40px;
+    font-size: 30px;
+
+}
+.page4{
+    display: flex;
+}
+.page4left{
+    width: 55%;;
+   
+    height: 750px;
+    margin-top: 40px;
+    
+}
+.page4right{
+    width: 45%;
+    background-image: url(image/mirrored-buildings-mandy-wiltse.jpg);
+    height: 850px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 40px;
+    
+    border-radius: 50%;
+  
+    
+}
+.in{
+    width: 40%;
+    background-color: white;
+    height: 550px;
+    margin-left: 200px;
+    margin-top: 150px;
+    border-radius: 45%;
+    
+  
+
+}
+.page4text{
+   
+}
+.page4text h1{
+    font-size: 80px;
+    padding: 20px;
+    color: rgb(93, 205, 239);
+
+}
+.page4text p{
+    font-size: 30px;
+    padding-left: 20px;
+}
+.page4text li{
+    padding-left: 90px;
+    padding-top: 50px;
+    
+    
+    
+}
+.footer{
+    display: flex;
+    width: 100%;
+    height: 900px;
+    padding-top: 40px;
+}
+.footerLeft{
+    width: 40%;
+}
+.footerRight{
+    align-items: right;
+    margin-left: 200px;
+}
+.services h1{
+    font-size: 70px;
+}
+.services ul a{
+    text-decoration: underline;
+    color: black;
+    font-size: 70px;
+}
+.img4{
+    padding-left: 300px;
+
+}
+
+    
